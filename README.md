@@ -1,7 +1,7 @@
 ### Oi, bem vindo(a) ao meu git! 👋
 
 No meu GitHub você pode encontrar repositórios de:
-* trabalhos que realizei na minha graduação em Bacharel em Ciência da Computação :mortar_board:;
+* trabalhos que realizei durante a minha graduação como Bacharel em Ciência da Computação :mortar_board:;
 * materiais construídos em cursos recentes :writing_hand:;
 * projetos que que desenvolvi ou estão em desenvolvimento :star2:.
 

@@ -7,7 +7,7 @@ No meu GitHub você pode encontrar repositórios de:
 
 Nos meus "pins" estão os últimos projetos desenvolvidos; repositórios com materiais de cursos possuem o prefixo "curso-". 
 
-🌱 Estou atualmente aprendendo os conceitos de Integração Contínua, no curso Alura: "Integração Contínua: Mais qualidade e menos risco no desenvolvimento".
+🌱 Estou atualmente expandindo meus conceitos de Integração Contínua, no curso Alura: "Integração Contínua: Mais qualidade e menos risco no desenvolvimento".
 
 
 <!--

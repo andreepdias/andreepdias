@@ -7,6 +7,9 @@ No meu GitHub você pode encontrar repositórios de:
 
 Nos meus "pins" estão os últimos projetos desenvolvidos; repositórios com materiais de cursos possuem o prefixo "curso-". 
 
+🌱 Estou atualmente aprendendo os conceitos de Integração Contínua, no curso Alura: "Integração Contínua: Mais qualidade e menos risco no desenvolvimento".
+
+
 <!--
 **andreepdias/andreepdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

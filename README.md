@@ -3,11 +3,10 @@
 No meu GitHub você pode encontrar repositórios de:
 * trabalhos que realizei durante a minha graduação como Bacharel em Ciência da Computação :mortar_board:;
 * materiais construídos em cursos recentes :writing_hand:;
-* projetos que que desenvolvi ou estão em desenvolvimento :star2:.
+* projetos que que desenvolvi ou estão em desenvolvimento :star2:;
+* desafios que realizei.
 
 Nos meus "pins" estão os últimos projetos desenvolvidos; repositórios com materiais de cursos possuem o prefixo "curso-". 
-
-🌱 Estou atualmente expandindo meus conceitos de Integração Contínua, no curso Alura: "Integração Contínua: Mais qualidade e menos risco no desenvolvimento".
 
 
 <!--

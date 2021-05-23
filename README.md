@@ -1,12 +1,11 @@
-### Oi, bem vindo(a) ao meu git! 👋
+### Opa, bem vindo(a) ao meu git.
 
 No meu GitHub você pode encontrar repositórios de:
-* trabalhos que realizei durante a minha graduação como Bacharel em Ciência da Computação :mortar_board:;
-* materiais construídos em cursos recentes :writing_hand:;
-* projetos que que desenvolvi ou estão em desenvolvimento :star2:;
-* desafios que realizei.
+* trabalhos que realizei durante a minha graduação :mortar_board:;
+* materiais construídos em cursos :writing_hand:;
+* projetos que que desenvolvi ou estão em desenvolvimento :star2:.
 
-Nos meus "pins" estão os últimos projetos desenvolvidos; repositórios com materiais de cursos possuem o prefixo "curso-". 
+Nos meus "pins" estão os últimos projetos desenvolvidos.
 
 
 <!--

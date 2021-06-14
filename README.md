@@ -1,6 +1,6 @@
-### Opa, bem vindo(a) ao meu git.
+### Olá, bem vindo(a) ao meu git.
 
-No meu GitHub você pode encontrar repositórios de:
+No meu GitHub você vai encontrar repositórios de:
 * trabalhos que realizei durante a minha graduação :mortar_board:;
 * materiais construídos em cursos :writing_hand:;
 * projetos que que desenvolvi ou estão em desenvolvimento :star2:.
